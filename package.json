@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-narwhal/webpack-day-tyler-daniel/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-narwhal/webpack-day-tyler-daniel#readme"
+  "homepage": "https://github.com/thinkful-ei-narwhal/webpack-day-tyler-daniel#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
